@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaushalshivaprakash/Desktop/ML%20project1/mlruns/608696646633404343/c8d1624283a34038a022a329c3ca431c/artifacts
+end_time: 1734742416560
+entry_point_name: ''
+experiment_id: '608696646633404343'
+lifecycle_stage: active
+run_id: c8d1624283a34038a022a329c3ca431c
+run_name: debonair-carp-834
+run_uuid: c8d1624283a34038a022a329c3ca431c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734742416550
+status: 3
+tags: []
+user_id: kaushalshivaprakash

@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+     Desktop       0.69      0.91      0.79        47
+      Mobile       1.00      0.20      0.33         5
+     Unknown       0.00      0.00      0.00         1
+ Workstation       0.67      0.40      0.50        25
+
+    accuracy                           0.69        78
+   macro avg       0.59      0.38      0.41        78
+weighted avg       0.70      0.69      0.66        78
