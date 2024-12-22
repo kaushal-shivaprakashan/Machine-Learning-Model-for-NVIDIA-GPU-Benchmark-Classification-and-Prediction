@@ -1,8 +1,6 @@
-# GPU Performance Analysis and Model Deployment
-![GPU Performance Analysis](Application image.png "GPU Performance Analysis")
+![Application](Application image.png "Application")
 
 # GPU Performance Analysis and Model Deployment
-...
 
 ## Project Overview
 This project showcases a comprehensive workflow to analyze GPU performance and deploy machine learning models for real-time predictions. The dataset used contains specifications for over 2,300 GPUs, spanning categories like Desktop, Mobile, and Workstation.
