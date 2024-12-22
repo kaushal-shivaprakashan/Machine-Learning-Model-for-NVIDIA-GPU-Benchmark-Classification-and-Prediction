@@ -1,5 +1,5 @@
 # GPU Performance Analysis and Model Deployment
-![GPU Performance Analysis](\Application image.png "GPU Performance Analysis")
+![GPU Performance Analysis](Application image.png "GPU Performance Analysis")
 
 # GPU Performance Analysis and Model Deployment
 ...
